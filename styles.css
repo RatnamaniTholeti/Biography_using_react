@@ -1,0 +1,33 @@
+#hii
+{
+    text-align: center;
+    
+}
+.name
+{
+    text-align: center;
+}
+body{
+    background-color:aliceblue;
+    border: 3px solid black;
+    padding: 0px;
+    margin: 1px;
+}
+h1{
+    color:red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+img
+{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+p
+{
+    padding: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 5px 5px 5px 5px gray;
+    background-color:azure;
+}
